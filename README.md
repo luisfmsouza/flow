@@ -1,7 +1,7 @@
 # flow
 
-## Code sign: Distribution
+## Code sign: Development
 
-## Provision: Production
+## Provision: Staging
 
-## Build: Release
+## Build: Debug
